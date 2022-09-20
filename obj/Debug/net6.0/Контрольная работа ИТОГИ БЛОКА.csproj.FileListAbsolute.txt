@@ -1,0 +1,15 @@
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.csproj.AssemblyReference.cache
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.AssemblyInfoInputs.cache
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.AssemblyInfo.cs
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.csproj.CoreCompileInputs.cache
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\bin\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.exe
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\bin\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.deps.json
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\bin\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.runtimeconfig.json
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\bin\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.dll
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\bin\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.pdb
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.dll
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\refint\Контрольная работа ИТОГИ БЛОКА.dll
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.pdb
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\Контрольная работа ИТОГИ БЛОКА.genruntimeconfig.cache
+C:\Users\AdminPC\Desktop\обучение\Контрольная работа ИТОГИ БЛОКА\obj\Debug\net6.0\ref\Контрольная работа ИТОГИ БЛОКА.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Контрольная работа ИТОГИ БЛОКА/1.0.0": {
+        "runtime": {
+          "Контрольная работа ИТОГИ БЛОКА.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Контрольная работа ИТОГИ БЛОКА/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
